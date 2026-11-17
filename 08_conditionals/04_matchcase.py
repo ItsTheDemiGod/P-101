@@ -7,7 +7,7 @@ day = input("enter the day of the week :")
 
 
 
-match day:
+match day:     # how this works is the value of day is matcher with all the cases and the one which matches its block of code is executed
     case "sunday":
         print("its sunday")
     case "monday":
