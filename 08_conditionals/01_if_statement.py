@@ -5,6 +5,7 @@
 # 3. while 
 # 4. do while 
 # 5. nested - if 
+# 6. if--elif else ladder
 
 
 # if syntax ----> if(condition):
